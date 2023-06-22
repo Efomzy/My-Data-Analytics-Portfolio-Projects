@@ -1,2 +1,2 @@
-# House_Sales_in_King_Count_USA
-This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015
+# My Data Analytics Portfolio Projects
+This contains all my data analytics projects using Python, Excel, Power BI and SQL
